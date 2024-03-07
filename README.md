@@ -1,5 +1,5 @@
 # Project Business Intelligence 
-Tools used : **Power BI**
+Tools used : **Power BI**, 
 Topic - **Textile Company Dashboard**
 
 • Created a dynamic dashboard for visualizing the company’s sales records and providing an overall snapshot of
