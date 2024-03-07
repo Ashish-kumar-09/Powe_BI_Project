@@ -1,6 +1,6 @@
 # Project 
-#Data visualization Tool used : **Power BI**, 
-#Topic - **Textile Company Dashboard**
+# Data visualization Tool used : Power BI
+# Topic - Textile Company Dashboard
 
 • Created a dynamic dashboard for visualizing the company’s sales records and providing an overall snapshot of
 their business.
