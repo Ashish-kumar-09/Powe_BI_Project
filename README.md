@@ -1,4 +1,4 @@
-# Project Business Intelligence 
+# Project 
 Tools used : **Power BI**, 
 Topic - **Textile Company Dashboard**
 
